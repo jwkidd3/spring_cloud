@@ -1,0 +1,11 @@
+package com.vmware.service;
+
+public class Svc implements ISvc {
+
+	@Override
+	public String doGreet() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

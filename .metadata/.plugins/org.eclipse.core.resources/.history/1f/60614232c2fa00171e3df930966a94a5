@@ -1,0 +1,8 @@
+package com.vmware.service;
+
+import org.springframework.cloud.netflix.feign.FeignClient;
+
+@FeignClient("resttwo")
+public interface GreetingClient {
+
+}

@@ -1,0 +1,7 @@
+server.port=9092
+greeting.value=From Two
+info.app.name=rest2
+management.security.enabled=false
+logging.level.org.springframework.cloud.sleuth=DEBUG
+spring.sleuth.sampler.percentage=1.0
+endpoints.sensitive=trues

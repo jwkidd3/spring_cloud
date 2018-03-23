@@ -1,0 +1,6 @@
+package com.vmware.service;
+
+@RestController
+public class MyRestController {
+
+}

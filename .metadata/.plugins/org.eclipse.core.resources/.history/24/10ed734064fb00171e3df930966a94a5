@@ -1,0 +1,14 @@
+package com.vmware.service;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Svc implements ISvc {
+
+	@Override
+	public String doGreet() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,14 @@
+package com.vmware.service;
+
+import org.springframework.beans.factory.annotation.Value;
+
+public class ServiceImpl implements IService {
+	@Value("${greeting.value}")
+	private String msg;
+
+	@Override
+	public String getGreeting() {
+		return null;
+	}
+
+}

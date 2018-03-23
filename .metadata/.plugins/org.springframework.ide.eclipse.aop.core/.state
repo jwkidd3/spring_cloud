@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="rest2"/>
+<aop-project name="rest1"/>
+<aop-project name="configsvr"/>
+<aop-project name="eureka"/>
+<aop-project name="thecamel"/>
+<aop-project name="api-gateway"/>
+</aop-reference-model>

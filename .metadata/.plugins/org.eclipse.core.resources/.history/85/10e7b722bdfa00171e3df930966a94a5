@@ -1,0 +1,11 @@
+package com.vmware.service;
+
+public class ServiceImpl implements IService {
+
+	@Override
+	public String getGreeting() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
